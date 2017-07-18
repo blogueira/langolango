@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "stringutil"
+    "github.com/blogueira/stringutil"
 )
 
 func main() {
